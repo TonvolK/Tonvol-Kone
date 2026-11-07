@@ -2,7 +2,7 @@
 
 Étudiant en Master 1 MIAGE à l’Université Félix Houphouët-Boigny (Abidjan), en partenariat avec l’ISTIC de Rennes. Je recherche un stage en informatique.
 
-🔗 **Site en ligne :** https://VOTRE-LIEN.vercel.app
+🔗 **Site en ligne :** https://tonvoll-kone.vercel.app/
 
 ## Contenu du site
 
